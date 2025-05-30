@@ -1,0 +1,10 @@
+@media (max-width: 576px) {
+  .card-footer {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .card-footer .btn {
+    width: 100% !important;
+  }
+}

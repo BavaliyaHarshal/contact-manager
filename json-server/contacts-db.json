@@ -1,0 +1,364 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Alice",
+      "email": "alice@example.com",
+      "favourite": "false",
+      "number": "9865548723",
+      "image": "20.jpeg"
+    },
+    {
+      "id": "3",
+      "name": "Ethan",
+      "email": "ethan@example.com",
+      "favourite": "false",
+      "number": "9916015358",
+      "image": "14.jpeg"
+    },
+    {
+      "id": "4",
+      "name": "Grace",
+      "email": "grace@example.com",
+      "favourite": "false",
+      "number": "5708578116",
+      "image": "20.jpeg"
+    },
+    {
+      "id": "5",
+      "name": "Hannah",
+      "email": "hannah@example.com",
+      "favourite": "false",
+      "number": "4998404390",
+      "image": "16.jpeg"
+    },
+    {
+      "id": "6",
+      "name": "Isaac",
+      "email": "isaac@example.com",
+      "favourite": "false",
+      "number": "3102216017",
+      "image": "7.jpeg"
+    },
+    {
+      "id": "7",
+      "name": "Jasmine",
+      "email": "jasmine@example.com",
+      "favourite": "false",
+      "number": "8862517521",
+      "image": "7.jpeg"
+    },
+    {
+      "id": "8",
+      "name": "Liam",
+      "email": "liam@example.com",
+      "favourite": "false",
+      "number": "7320133269",
+      "image": "18.jpeg"
+    },
+    {
+      "id": "9",
+      "name": "Nora",
+      "email": "nora@example.com",
+      "favourite": "false",
+      "number": "8305768748",
+      "image": "15.jpeg"
+    },
+    {
+      "id": "10",
+      "name": "Oscar",
+      "email": "oscar@example.com",
+      "favourite": "false",
+      "number": "3357253645",
+      "image": "3.jpeg"
+    },
+    {
+      "id": "11",
+      "name": "Benjamin",
+      "email": "benjamin@example.com",
+      "favourite": "false",
+      "number": "5629074381",
+      "image": "12.jpeg"
+    },
+    {
+      "id": "12",
+      "name": "Sophia",
+      "email": "sophia@example.com",
+      "favourite": "false",
+      "number": "7894561230",
+      "image": "5.jpeg"
+    },
+    {
+      "id": "13",
+      "name": "Daniel",
+      "email": "daniel@example.com",
+      "favourite": "false",
+      "number": "3216549870",
+      "image": "8.jpeg"
+    },
+    {
+      "id": "14",
+      "name": "Olivia",
+      "email": "olivia@example.com",
+      "favourite": "false",
+      "number": "9517538642",
+      "image": "19.jpeg"
+    },
+    {
+      "id": "15",
+      "name": "William",
+      "email": "william@example.com",
+      "favourite": "false",
+      "number": "4563219870",
+      "image": "2.jpeg"
+    },
+    {
+      "id": "16",
+      "name": "Emma",
+      "email": "emma@example.com",
+      "favourite": "false",
+      "number": "7891234560",
+      "image": "11.jpeg"
+    },
+    {
+      "id": "17",
+      "name": "Michael",
+      "email": "michael@example.com",
+      "favourite": "false",
+      "number": "6543217890",
+      "image": "6.jpeg"
+    },
+    {
+      "id": "18",
+      "name": "Ava",
+      "email": "ava@example.com",
+      "favourite": "false",
+      "number": "8529637410",
+      "image": "17.jpeg"
+    },
+    {
+      "id": "19",
+      "name": "James",
+      "email": "james@example.com",
+      "favourite": "false",
+      "number": "3698521470",
+      "image": "4.jpeg"
+    },
+    {
+      "id": "20",
+      "name": "Isabella",
+      "email": "isabella@example.com",
+      "favourite": "false",
+      "number": "2587413690",
+      "image": "10.jpeg"
+    },
+    {
+      "id": "21",
+      "name": "Alexander",
+      "email": "alexander@example.com",
+      "favourite": "false",
+      "number": "9632587410",
+      "image": "1.jpeg"
+    },
+    {
+      "id": "22",
+      "name": "Mia",
+      "email": "mia@example.com",
+      "favourite": "false",
+      "number": "1598746320",
+      "image": "13.jpeg"
+    },
+    {
+      "id": "23",
+      "name": "Ryan",
+      "email": "ryan@example.com",
+      "favourite": "false",
+      "number": "8523697410",
+      "image": "9.jpeg"
+    },
+    {
+      "id": "24",
+      "name": "Zoe",
+      "email": "zoe@example.com",
+      "favourite": "false",
+      "number": "7539514682",
+      "image": "1.jpeg"
+    },
+    {
+      "id": "25",
+      "name": "Thomas",
+      "email": "thomas@example.com",
+      "favourite": "false",
+      "number": "4567891230",
+      "image": "12.jpeg"
+    },
+    {
+      "id": "26",
+      "name": "Lucas",
+      "email": "lucas@example.com",
+      "favourite": "false",
+      "number": "1234567891",
+      "image": "8.jpeg"
+    },
+    {
+      "id": "27",
+      "name": "Mason",
+      "email": "mason@example.com",
+      "favourite": "false",
+      "number": "2345678912",
+      "image": "17.jpeg"
+    },
+    {
+      "id": "28",
+      "name": "Elijah",
+      "email": "elijah@example.com",
+      "favourite": "false",
+      "number": "3456789123",
+      "image": "3.jpeg"
+    },
+    {
+      "id": "29",
+      "name": "Logan",
+      "email": "logan@example.com",
+      "favourite": "false",
+      "number": "4567891234",
+      "image": "15.jpeg"
+    },
+    {
+      "id": "30",
+      "name": "Charlotte",
+      "email": "charlotte@example.com",
+      "favourite": "false",
+      "number": "5678912345",
+      "image": "2.jpeg"
+    },
+    {
+      "id": "31",
+      "name": "Amelia",
+      "email": "amelia@example.com",
+      "favourite": "false",
+      "number": "6789123456",
+      "image": "19.jpeg"
+    },
+    {
+      "id": "32",
+      "name": "Harper",
+      "email": "harper@example.com",
+      "favourite": "false",
+      "number": "7891234567",
+      "image": "11.jpeg"
+    },
+    {
+      "id": "33",
+      "name": "Evelyn",
+      "email": "evelyn@example.com",
+      "favourite": "false",
+      "number": "8912345678",
+      "image": "6.jpeg"
+    },
+    {
+      "id": "34",
+      "name": "Abigail",
+      "email": "abigail@example.com",
+      "favourite": "false",
+      "number": "9123456789",
+      "image": "14.jpeg"
+    },
+    {
+      "id": "35",
+      "name": "Ella",
+      "email": "ella@example.com",
+      "favourite": "false",
+      "number": "1029384756",
+      "image": "20.jpeg"
+    },
+    {
+      "id": "36",
+      "name": "Scarlett",
+      "email": "scarlett@example.com",
+      "favourite": "false",
+      "number": "5647382910",
+      "image": "7.jpeg"
+    },
+    {
+      "id": "37",
+      "name": "Avery",
+      "email": "avery@example.com",
+      "favourite": "false",
+      "number": "8374659201",
+      "image": "4.jpeg"
+    },
+    {
+      "id": "38",
+      "name": "Jack",
+      "email": "jack@example.com",
+      "favourite": "false",
+      "number": "1928374650",
+      "image": "13.jpeg"
+    },
+    {
+      "id": "39",
+      "name": "Henry",
+      "email": "henry@example.com",
+      "favourite": "false",
+      "number": "9182736450",
+      "image": "5.jpeg"
+    },
+    {
+      "id": "40",
+      "name": "Sebastian",
+      "email": "sebastian@example.com",
+      "favourite": "false",
+      "number": "5647382911",
+      "image": "9.jpeg"
+    },
+    {
+      "id": "41",
+      "name": "Aiden",
+      "email": "aiden@example.com",
+      "favourite": "false",
+      "number": "8374659202",
+      "image": "10.jpeg"
+    },
+    {
+      "id": "42",
+      "name": "Matthew",
+      "email": "matthew@example.com",
+      "favourite": "false",
+      "number": "1928374651",
+      "image": "1.jpeg"
+    },
+    {
+      "id": "43",
+      "name": "Samuel",
+      "email": "samuel@example.com",
+      "favourite": "false",
+      "number": "9182736451",
+      "image": "18.jpeg"
+    },
+    {
+      "id": "44",
+      "name": "David",
+      "email": "david@example.com",
+      "favourite": "false",
+      "number": "5647382912",
+      "image": "12.jpeg"
+    },
+    {
+      "id": "45",
+      "name": "Carter",
+      "email": "carter@example.com",
+      "favourite": "false",
+      "number": "8374659203",
+      "image": "16.jpeg"
+    },
+    {
+      "id": "f0dc",
+      "name": "Harshal Bavaliya",
+      "email": "hkb@gmail.com",
+      "favourite": true,
+      "number": "9887655497",
+      "image": "13.jpeg"
+    }
+  ]
+}
